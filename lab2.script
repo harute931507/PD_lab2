@@ -1,0 +1,14 @@
+Script started on 2017年03月29日 (週三) 14時29分56秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoamil pe[K[K[K[K; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=harute0000@gmail.com
+user.name=harut931507
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://h[Kgithub.com/harute931507/lab2.git
+Cloning into 'lab2'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月29日 (週三) 14時31分04秒
